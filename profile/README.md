@@ -1,4 +1,4 @@
-![Leden van de Vughtse Programmeerclub demonstreren een project](https://secure.meetupstatic.com/photos/event/f/c/d/clean_518584045.webp)
+![Leden van de Vughtse Programmeerclub demonstreren een project](https://github.com/VughtseProgrammeerclub/.github/blob/main/vpc-met-logo.png)
 
 Please note: we are a Dutch speaking group.
 
