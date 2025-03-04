@@ -7,4 +7,5 @@ Deze club is er voor iedereen die hobbymatig bezig is met het programmeren van c
 De club bestaat uit mensen met uiteenlopende achtergronden en ervaring op het gebied van programmeren. We verwachten dat deelnemers computervaardig zijn, maar programmeerkennis is niet vereist. Belangrijk is vooral het leren en het helpen van elkaar.
 
 Onze evenementen worden aangekondigd op Meetup: https://www.meetup.com/vughtse-programmeerclub/
-[Persbericht over cursus Python](https://github.com/VughtseProgrammeerclub/Algemene-zaken/blob/main/persbericht-cursus-python-2025.md)
+
+**[Persbericht over cursus Python]**(https://github.com/VughtseProgrammeerclub/Algemene-zaken/blob/main/persbericht-cursus-python-2025.md)
