@@ -8,4 +8,4 @@ De club bestaat uit mensen met uiteenlopende achtergronden en ervaring op het ge
 
 Onze evenementen worden aangekondigd op Meetup: https://www.meetup.com/vughtse-programmeerclub/
 
-**[Persbericht over cursus Python]**(https://github.com/VughtseProgrammeerclub/Algemene-zaken/blob/main/persbericht-cursus-python-2025.md)
+**[Persbericht over cursus Python](https://github.com/VughtseProgrammeerclub/Algemene-zaken/blob/main/persbericht-cursus-python-2025.md)**
