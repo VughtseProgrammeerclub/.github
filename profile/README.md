@@ -1,9 +1,5 @@
 ![Leden van de Vughtse Programmeerclub demonstreren een project](https://github.com/VughtseProgrammeerclub/.github/blob/main/vpc-met-logo.png)
 
-***
-## **Let op, anders dan aangekondigd in het Klaverblad: De sonic PI avond is op 27 Mei.** 
-***
-
 Please note: we are a Dutch speaking group.
 
 Deze club is er voor iedereen die hobbymatig bezig is met het programmeren van computers, microcontrollers en andere hardware. Op onze twee wekelijkse clubavonden in DePetrus in Vught behandelen we verschillende aspecten rondom computers, met onderwerpen zoals Internet of Things, Machine Learning, programmeren in o.a. Python of Software Defined Radio.
